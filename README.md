@@ -1,4 +1,4 @@
-# my-project
+# git-mtt
 
 A starter repository initialized locally and version-controlled with Git.
 
@@ -7,14 +7,14 @@ A starter repository initialized locally and version-controlled with Git.
 Clone the repository:
 
 ```bash
-git clone git@github.com:<your-username>/my-project.git
-cd my-project
+git clone git@github.com:hata767/git-mtt.git
+cd git-mtt
 ```
 
 ## Layout
 
 ```
-my-project/
+git-mtt/
 ├── README.md
 └── .gitignore
 ```
