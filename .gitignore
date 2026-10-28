@@ -6,7 +6,12 @@ Desktop.ini
 # Editors
 .vscode/
 .idea/
+.vs/
 *.swp
+
+# .NET build output
+bin/
+obj/
 
 # Logs & temp
 *.log
